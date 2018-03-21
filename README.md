@@ -1,9 +1,9 @@
 # TagPro Analytics: Python
-Port of Ronding's TagPro Analytics readers from PHP into a Python library.
+Port of Ronding's TagPro Analytics readers from PHP into a Python module.
 
 ## Installation
 
-[TODO] ??? How to install a Python library
+[TODO] ??? How to install a Python module
 
 ## Usage
 
