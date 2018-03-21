@@ -24,3 +24,5 @@ I've found these forks of the same LogReaders:
 Ruby | [/keratagpro/tagpro-analytics-ruby](https://github.com/keratagpro/tagpro-analytics-ruby)
 JavaScript | [/keratagpro/node-tagpro-analytics](https://github.com/keratagpro/node-tagpro-analytics)
 Python | [/wilcooo/TagPro-Analytics-Python](https://github.com/wilcooo/TagPro-Analytics-Python) (*this repo*)
+PHP | [tagpro.eu](https://tagpro.eu/?science) (*The original code*)
+C++ | [tagpro.eu](https://tagpro.eu/cpp.zip)
