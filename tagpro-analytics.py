@@ -158,7 +158,7 @@ class PlayerLogReader(LogReader):
             keep = not dropPop and newTeam and (newTeam == team or not team) and (not captures or (not flag and not grab) or self._readBool())
             if not grab: newFlag = flag
             elif not keep: newFlag = self.TEMPORARY_FLAG
-            else: newFlag = self._readFixed(2)
+            else: newFlag = self._readFixed(2) + 1
             powerups = self._readTally()
             powersDown = self.NO_POWER
             powersUp = self.NO_POWER
