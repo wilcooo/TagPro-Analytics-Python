@@ -1,5 +1,5 @@
 """
-tagpro-analytics : read raw match data from TagPro Analytics (tagpro.eu)
+tagpro_analytics : read raw match data from TagPro Analytics (tagpro.eu)
 
 MIT License
 
